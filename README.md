@@ -61,7 +61,7 @@ This targeted approach significantly improves prediction accuracy by allowing mo
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/Weather-Visibility-Climate.git
+    git clone https://github.com/Arnab-Ghosh7/Weather-Visibility-Climate.git
     cd Weather-Visibility-Climate
     ```
 
